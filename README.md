@@ -7,7 +7,7 @@
 
 ## 资源和托管
 
-1. 主页和文档的页面托管于[github](https://www.github.com/) ，域名``自己持有。
+1. 主页和文档的页面托管于[github](https://www.github.com/) ，域名`5zong.net`自己持有。
 
 ## 文档结构
 
